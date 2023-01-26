@@ -30,7 +30,7 @@ luarocks make
 
 ## Usage
 ```lua
-local vec2 = require("vacuum.vector.vec2")
+local vec2 = require("vacuum.vec2")
 local v1 = vec2:new(1,2)
 local v2 = vec2:new(3,4)
 
