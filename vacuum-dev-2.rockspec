@@ -7,7 +7,7 @@ description = {
    summary = " A numerical computation library for building game development in Lua.",
    detailed = "A numerical computation library for building game development in Lua.",
    homepage = "https://github.com/magicmannna/vacuum",
-   license = "*** see license in README file. ***"
+   license = "*** see license in LICENSE file. ***"
 }
 build = {
    type = "builtin",
@@ -15,6 +15,6 @@ build = {
       ["vacuum"]="init.lua",
       ["vacuum.matrix"]="lib/matrix.lua",
       ["vacuum.vector"]="lib/vector.lua",
-      ["vacuum.quaternion"]="lib/quat.lua"
+      ["vacuum.quaternion"]="lib/quat.lua",
    }
 }

@@ -1,7 +1,6 @@
--- export all the modules in this directory
-
+local vector = require('vector')
 return {
-    matrix = require('matrix'),
-    vector = require('vector') ,
-    quaternion = require('quat'),
+    vec2 = vector.vec2,
+    vec3 = vector.vec3,
+    vec4 = vector.vec4,
 };
