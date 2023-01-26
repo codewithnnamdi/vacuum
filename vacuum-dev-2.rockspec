@@ -1,5 +1,5 @@
 package = "vacuum"
-version = "dev-1"
+version = "dev-2"
 source = {
    url = "git+https://github.com/magicmannna/vacuum.git"
 }
@@ -12,7 +12,6 @@ description = {
 build = {
    type = "builtin",
    modules = {
-      ["vacuum"]="init.lua",
-
+      ["vacuum"]="init.lua"
    }
 }

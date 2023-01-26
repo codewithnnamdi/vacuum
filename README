@@ -1,8 +1,10 @@
 # Vacuum
 
-### A numerical computation library for  gmae development.
+### A numerical computation library for game development.
 
 ### Desgined for building games ,vacuum.lua is a numerical computation library for Lua.It is designed to be a lightweight library to be  for physics manipulation within game development.
+
+<!-- ### If you using love ,you can use vacuum.lua to build your game. -->
 
 ### Vacuum is inspired by the concepts of vacuums within physics.
 
