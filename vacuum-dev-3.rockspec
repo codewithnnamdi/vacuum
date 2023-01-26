@@ -1,5 +1,5 @@
 package = "vacuum"
-version = "dev-2"
+version = "dev-3"
 source = {
    url = "git+https://github.com/magicmannna/vacuum.git"
 }
